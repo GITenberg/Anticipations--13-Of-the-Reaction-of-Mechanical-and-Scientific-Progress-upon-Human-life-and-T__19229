@@ -1,0 +1,53 @@
+_repo: Anticipations--13-Of-the-Reaction-of-Mechanical-and-Scientific-Progress-upon-Human-life-and-T__19229
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "Anticipations of the Reaction of Mechanical and Scientific Progress\
+  \ upon Human Life and Thought, generally known as Anticipations, was written by\
+  \ H.G. Wells at the age of 34. He later called the book, which became a bestseller,\
+  \ \"the keystone to the main arch of my work.\" His most recent biographer, however,\
+  \ calls the volume \"both the starting point and the lowest point in Wells's career\
+  \ as a social thinker.\"\nTaking the revolution in transport facilitated by the\
+  \ \"mechanical revolution\" as his point of departure, Wells told readers they were\
+  \ living through a reorganization of human society that would alter every dimension\
+  \ of life. An academic biographer has described the degree of accuracy of Wells's\
+  \ predictions as \"certainly phenomenal.\"\nThe chapters of Anticipations appeared\
+  \ in Great Britain in the Fortnightly Review (April–December 1901) and in the United\
+  \ States in the North American Review (June–November 1901), and were published as\
+  \ a book in November 1901. Anticipations was \"Wells's first non-fiction bestseller.\"\
+  \ The volume was reissued by Chapman and Hall in 1914, on the eve of World War I.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19229'
+  wikidata: Q16152606
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Twentieth century -- Forecasts'
+- !lcsh 'Communication and traffic'
+- !lcsh 'Social prediction'
+- !lcsh 'Civilization'
+- !lcc 'HN'
+tableOfContents: Locomotion in the twentieth century -- The probable diffusion of
+  great cities -- Developing social elements -- Certain social reactions -- The life-history
+  of democracy -- War in the twentieth century -- The conflict of languages -- The
+  larger synthesis -- Faith, morals, and public policy in the twentieth century.
+title: "Anticipations\r\nOf the Reaction of Mechanical and Scientific Progress upon\
+  \ Human life and Thought"
+url: http://www.gutenberg.org/ebooks/19229
+wikipedia:
+- https://en.wikipedia.org/wiki/Anticipations
